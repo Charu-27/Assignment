@@ -1,0 +1,19 @@
+.container2
+{   position:contain;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height:25rem;
+    width:40rem;
+    
+
+    
+
+    
+}
+.bargraph
+{    align-self: left;
+    width:10rem;
+    height:40rem;
+}
